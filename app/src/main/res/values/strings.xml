@@ -1,6 +1,13 @@
 <resources>
     <string name="app_name">Sample Linear Layout</string>
-    <string name="tEmail">Email</string>
+    <string name="tNama">Email</string>
     <string name="tPassword">Password</string>
     <string name="bsignin">Sign-In</string>
+    <string name="lihatdata">Lihat Data</string>
+    <string name="editdata">Edit Data</string>
+    <string name="dataKontak">Data Kontak</string>
+    <string name="namaitem">Nama Item</string>
+    <string name="detailkontak">Detail Kontak</string>
+    <string name="nama">Nama</string>
+    <string name="notlp">Nomor Telepon</string>
 </resources>

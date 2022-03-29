@@ -16,31 +16,31 @@
         app:srcCompat="@drawable/login" />
 
     <EditText
-        android:id="@+id/editText2"
+        android:id="@+id/edNama"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:background="#ffffff"
         android:ems="10"
-        android:hint="@string/tEmail"
+        android:hint="@string/tNama"
         android:importantForAutofill="no"
-        android:inputType="textWebEmailAddress"
+        android:inputType="textPersonName"
         android:padding="12dp" />
 
     <EditText
-        android:id="@+id/editText2"
+        android:id="@+id/edPassword"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:background="#ffffff"
         android:ems="10"
         android:hint="@string/tPassword"
+        android:importantForAutofill="no"
         android:inputType="textPassword"
-        android:padding="12dp"
-        android:importantForAutofill="no" />
+        android:padding="12dp" />
 
     <Button
-        android:id="@+id/button1"
+        android:id="@+id/btMasuk"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
